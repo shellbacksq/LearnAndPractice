@@ -1,0 +1,11 @@
+2018-12-15 11:14:30,506 : DEBUG : debug message
+2018-12-15 11:14:30,506 : INFO : info message
+2018-12-15 11:14:30,506 : WARNING : warn message
+2018-12-15 11:14:30,506 : ERROR : error message
+2018-12-15 11:14:30,506 : CRITICAL : critical message
+2018-12-15 11:14:30,506 : ERROR : Faild to get result
+Traceback (most recent call last):
+  File "/home/sq/learnhub/LearnAndPractice/logging/normal.py", line 18, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2018-12-15 11:14:30,506 : INFO : Finished
