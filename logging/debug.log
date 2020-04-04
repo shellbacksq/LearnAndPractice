@@ -1,0 +1,57 @@
+2018-12-15 15:05:46,316 - root - DEBUG - Start
+2018-12-15 15:05:46,316 - root - INFO - Exec
+2018-12-15 15:05:46,317 - root - INFO - Finished
+2018-12-15 15:09:10,390 - root - DEBUG - Start
+2018-12-15 15:09:10,390 - root - INFO - Exec
+2018-12-15 15:09:10,390 - root - INFO - Finished
+2018-12-15 15:09:10,390 - main.core - INFO - Core Info
+2018-12-15 15:09:10,390 - main.core - INFO - Core Info
+2018-12-15 15:09:10,390 - main.core - DEBUG - Core Debug
+2018-12-15 15:09:10,390 - main.core - DEBUG - Core Debug
+2018-12-15 15:09:10,390 - main.core - ERROR - Core Error
+2018-12-15 15:09:10,390 - main.core - ERROR - Core Error
+2018-12-16 23:09:00,839 - root - DEBUG - Start
+2018-12-16 23:09:00,839 - root - INFO - Exec
+2018-12-16 23:09:00,839 - root - INFO - Finished
+2018-12-16 23:09:00,839 - main.core - INFO - Core Info
+2018-12-16 23:09:00,839 - main.core - INFO - Core Info
+2018-12-16 23:09:00,839 - main.core - DEBUG - Core Debug
+2018-12-16 23:09:00,839 - main.core - DEBUG - Core Debug
+2018-12-16 23:09:00,839 - main.core - ERROR - Core Error
+2018-12-16 23:09:00,839 - main.core - ERROR - Core Error
+[2018-12-16 23:09:40,490] : [   DEBUG] : [main_conf.py] : [       log] : [  20]： [Start]
+[2018-12-16 23:09:40,490] : [    INFO] : [main_conf.py] : [       log] : [  21]： [Exec]
+[2018-12-16 23:09:40,490] : [    INFO] : [main_conf.py] : [       log] : [  22]： [Finished]
+[2018-12-16 23:09:40,490] : [    INFO] : [   core.py] : [       run] : [   6]： [Core Info]
+[2018-12-16 23:09:40,490] : [    INFO] : [   core.py] : [       run] : [   6]： [Core Info]
+[2018-12-16 23:09:40,490] : [   DEBUG] : [   core.py] : [       run] : [   7]： [Core Debug]
+[2018-12-16 23:09:40,490] : [   DEBUG] : [   core.py] : [       run] : [   7]： [Core Debug]
+[2018-12-16 23:09:40,490] : [   ERROR] : [   core.py] : [       run] : [   8]： [Core Error]
+[2018-12-16 23:09:40,490] : [   ERROR] : [   core.py] : [       run] : [   8]： [Core Error]
+[2018-12-16 23:10:44,964] : [   DEBUG] : [   main_conf.py] : [       log] : [  20]： [Start]
+[2018-12-16 23:10:44,964] : [    INFO] : [   main_conf.py] : [       log] : [  21]： [Exec]
+[2018-12-16 23:10:44,964] : [    INFO] : [   main_conf.py] : [       log] : [  22]： [Finished]
+[2018-12-16 23:10:44,964] : [    INFO] : [        core.py] : [       run] : [   6]： [Core Info]
+[2018-12-16 23:10:44,964] : [    INFO] : [        core.py] : [       run] : [   6]： [Core Info]
+[2018-12-16 23:10:44,964] : [   DEBUG] : [        core.py] : [       run] : [   7]： [Core Debug]
+[2018-12-16 23:10:44,964] : [   DEBUG] : [        core.py] : [       run] : [   7]： [Core Debug]
+[2018-12-16 23:10:44,965] : [   ERROR] : [        core.py] : [       run] : [   8]： [Core Error]
+[2018-12-16 23:10:44,965] : [   ERROR] : [        core.py] : [       run] : [   8]： [Core Error]
+2018-12-16 23:13:25,160 -    DEBUG -    main_conf.py -        log -   20 - Start
+2018-12-16 23:13:25,160 -     INFO -    main_conf.py -        log -   21 - Exec
+2018-12-16 23:13:25,160 -     INFO -    main_conf.py -        log -   22 - Finished
+2018-12-16 23:13:25,160 -     INFO -         core.py -        run -    6 - Core Info
+2018-12-16 23:13:25,160 -     INFO -         core.py -        run -    6 - Core Info
+2018-12-16 23:13:25,160 -    DEBUG -         core.py -        run -    7 - Core Debug
+2018-12-16 23:13:25,160 -    DEBUG -         core.py -        run -    7 - Core Debug
+2018-12-16 23:13:25,160 -    ERROR -         core.py -        run -    8 - Core Error
+2018-12-16 23:13:25,160 -    ERROR -         core.py -        run -    8 - Core Error
+2018-12-16 23:18:24 -    DEBUG -    main_conf.py -        log -   20 - Start
+2018-12-16 23:18:24 -     INFO -    main_conf.py -        log -   21 - Exec
+2018-12-16 23:18:24 -     INFO -    main_conf.py -        log -   22 - Finished
+2018-12-16 23:18:24 -     INFO -         core.py -        run -    6 - Core Info
+2018-12-16 23:18:24 -     INFO -         core.py -        run -    6 - Core Info
+2018-12-16 23:18:24 -    DEBUG -         core.py -        run -    7 - Core Debug
+2018-12-16 23:18:24 -    DEBUG -         core.py -        run -    7 - Core Debug
+2018-12-16 23:18:24 -    ERROR -         core.py -        run -    8 - Core Error
+2018-12-16 23:18:24 -    ERROR -         core.py -        run -    8 - Core Error

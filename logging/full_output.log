@@ -1,0 +1,28 @@
+[2018-12-15 12:25:46,523] : [    INFO] : [   full.py] : [  <module>] :    [  26]： This is a log info
+[2018-12-15 12:25:46,523] : [ WARNING] : [   full.py] : [  <module>] :    [  28]： Warning exists
+[2018-12-15 12:25:46,523] : [    INFO] : [   full.py] : [  <module>] :    [  29]： Finish
+[2018-12-15 12:32:36,727] : [    INFO] : [   full.py] : [  <module>] :    [  31]： This is a log info
+[2018-12-15 12:32:36,727] : [ WARNING] : [   full.py] : [  <module>] :    [  33]： Warning exists
+[2018-12-15 12:32:36,727] : [    INFO] : [   full.py] : [  <module>] :    [  34]： Finish
+[2018-12-15 12:33:02,009] : [    INFO] : [   full.py] : [  <module>] :    [  31]： This is a log info
+[2018-12-15 12:33:02,585] : [ WARNING] : [   full.py] : [  <module>] :    [  33]： Warning exists
+[2018-12-15 12:33:02,870] : [    INFO] : [   full.py] : [  <module>] :    [  34]： Finish
+[2018-12-15 12:36:24,516] : [    INFO] : [   full.py] : [  <module>] :    [  31]： This is a log info
+[2018-12-15 12:36:24,835] : [ WARNING] : [   full.py] : [  <module>] :    [  33]： Warning exists
+[2018-12-15 12:36:25,117] : [    INFO] : [   full.py] : [  <module>] :    [  34]： Finish
+[2018-12-15 12:39:29,985] : [    INFO] : [   full.py] : [  <module>] :    [  31]： This is a log info
+[2018-12-15 12:39:30,364] : [ WARNING] : [   full.py] : [  <module>] :    [  33]： Warning exists
+[2018-12-15 12:39:30,692] : [    INFO] : [   full.py] : [  <module>] :    [  34]： Finish
+[2018-12-15 14:37:01,003] : [    INFO] : [   main.py] : [  <module>] :    [  34]： This is a log info
+[2018-12-15 14:37:01,004] : [ WARNING] : [   main.py] : [  <module>] :    [  36]： Warning exists
+[2018-12-15 14:37:01,004] : [    INFO] : [   main.py] : [  <module>] :    [  37]： Finish
+[2018-12-15 14:40:48,793] : [    INFO] : [   main.py] : [  <module>] :    [  34]： This is a log info
+[2018-12-15 14:40:48,793] : [ WARNING] : [   main.py] : [  <module>] :    [  36]： Warning exists
+[2018-12-15 14:40:48,793] : [    INFO] : [   main.py] : [  <module>] :    [  37]： Finish
+[2018-12-15 14:40:48,793] : [    INFO] : [   core.py] : [       run] :    [   6]： Core Info
+[2018-12-15 14:40:48,793] : [   ERROR] : [   core.py] : [       run] :    [   8]： Core Error
+[2018-12-15 14:42:38,832] : [    INFO] : [   main.py] : [  <module>] :    [  34]： This is a log info
+[2018-12-15 14:42:38,833] : [ WARNING] : [   main.py] : [  <module>] :    [  36]： Warning exists
+[2018-12-15 14:42:38,833] : [    INFO] : [   main.py] : [  <module>] :    [  37]： Finish
+[2018-12-15 14:42:38,833] : [    INFO] : [   core.py] : [       run] :    [   6]： Core Info
+[2018-12-15 14:42:38,833] : [   ERROR] : [   core.py] : [       run] :    [   8]： Core Error
